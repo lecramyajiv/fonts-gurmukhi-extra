@@ -8,6 +8,7 @@
 6. John [Atithi](https://github.com/jonpinhorn/atithi)
 7. artandtype [Braah](https://github.com/artandtype/Braah)
 8. Gurbaninow [Opensatluj](https://github.com/gurbaninow/gurmukhi-fonts)
+9. Tiro [Gurmukhi](https://github.com/TiroTypeworks/Indigo)
 
 # DOWNLOAD URL OF FONTS
 
@@ -22,3 +23,4 @@
 9. John [Atithi](https://github.com/jonpinhorn/atithi/archive/86c473f/atithi-86c473f.tar.gz)
 10. artandtype [Braah](https://github.com/artandtype/Braah/archive/2b7ba2e/Braah-2b7ba2e.tar.gz)
 11. Gurbaninow [Opensatluj](https://github.com/gurbaninow/gurmukhi-fonts/archive/refs/tags/2.5.2.zip)
+12. Tiro [Gurmukhi](https://github.com/TiroTypeworks/Indigo/archive/c5f23cb/Indigo-c5f23cb.tar.gz)
