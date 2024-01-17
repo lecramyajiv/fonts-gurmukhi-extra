@@ -1,2 +1,3 @@
 # fonts-gurmukhi-extra
-Extra Gurmukhi fonts for Slackware Linux
+
+Extra Collection of Gurmukhi fonts for Slackware Linux
