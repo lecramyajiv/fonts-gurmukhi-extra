@@ -7,13 +7,7 @@
 5. Typeoff [dasa](https://github.com/typeoff/dasa)
 6. John [Atithi](https://github.com/jonpinhorn/atithi)
 7. artandtype [Braah](https://github.com/artandtype/Braah)
- itfoundry [Jalandhar](https://github.com/itfoundry/hind-jalandhar)
- Itfoundry [Roundo](https://github.com/itfoundry/roundo)
-
-
-
-
-
+8. Gurbaninow [Opensatluj](https://github.com/gurbaninow/gurmukhi-fonts)
 
 # DOWNLOAD URL OF FONTS
 
@@ -26,6 +20,5 @@
 7. Google/Muktamahee [Muktamahee](https://github.com/EkType/Mukta/releases/download/2.538/Mukta.Font.Family.2.538.zip)
 8. Typeoff [dasa](https://github.com/typeoff/dasa/archive/de1c323/dasa-de1c323.tar.gz)
 9. John [Atithi](https://github.com/jonpinhorn/atithi/archive/86c473f/atithi-86c473f.tar.gz)
-10. artandtype [Braah](https://github.com/artandtype/Braah)
- itfoundry [Jalandhar](https://github.com/itfoundry/hind-jalandhar/archive/27af9e8/hind-jalandhar-27af9e8.tar.gz)
- itfoundry [Roundo](https://github.com/itfoundry/roundo/archive/f7e77db/roundo-f7e77db.tar.gz)
+10. artandtype [Braah](https://github.com/artandtype/Braah/archive/2b7ba2e/Braah-2b7ba2e.tar.gz)
+11. Gurbaninow [Opensatluj](https://github.com/gurbaninow/gurmukhi-fonts/archive/refs/tags/2.5.2.zip)
