@@ -4,6 +4,10 @@
 2. Anmol [Anmoluni](https://guca.sourceforge.net/typography/fonts/anmoluni/)
 3. Shabados [Santlipi](https://github.com/shabados/SantLipi)
 4. gunnarvilhjalmsson [Sector](https://github.com/gunnarvilhjalmsson/Sector)
+5. Typeoff [dasa](https://github.com/typeoff/dasa)
+6. John [Atithi](https://github.com/jonpinhorn/atithi)
+7. artandtype [Braah](https://github.com/artandtype/Braah)
+ itfoundry [Jalandhar](https://github.com/itfoundry/hind-jalandhar)
  Itfoundry [Roundo](https://github.com/itfoundry/roundo)
 
 
@@ -19,5 +23,9 @@
 4. Anmol2  [Anmolunibani](http://prdownloads.sourceforge.net/guca/anmolunibani.1.40.zip?download)
 5. Shabados [SantLipi](https://github.com/shabados/SantLipi/releases/download/v0.22.0/SantLipi-v0.022.zip)
 6. gunnarvilhjalmsson [Sector](https://github.com/gunnarvilhjalmsson/Sector/archive/fa2bb62/Sector-fa2bb62.tar.gz)
-
+7. Google/Muktamahee [Muktamahee](https://github.com/EkType/Mukta/releases/download/2.538/Mukta.Font.Family.2.538.zip)
+8. Typeoff [dasa](https://github.com/typeoff/dasa/archive/de1c323/dasa-de1c323.tar.gz)
+9. John [Atithi](https://github.com/jonpinhorn/atithi/archive/86c473f/atithi-86c473f.tar.gz)
+10. artandtype [Braah](https://github.com/artandtype/Braah)
+ itfoundry [Jalandhar](https://github.com/itfoundry/hind-jalandhar/archive/27af9e8/hind-jalandhar-27af9e8.tar.gz)
  itfoundry [Roundo](https://github.com/itfoundry/roundo/archive/f7e77db/roundo-f7e77db.tar.gz)
