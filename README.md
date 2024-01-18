@@ -8,5 +8,18 @@ on the Perso-Arabic script; in India, it is written using the Gurmukhi alphabet,
 
 This packages contains Extra Collection of Gurmukhi fonts for Slackware Linux
 
+The following fonts are available
+1. Anek Gurmukhi
+2. Baloo Paaji2
+3. Mukta Mahee
+4. Tiro Gurmukhi
+5. AnmolUni
+6. AnmolUniBani
+7. Open satluj Uni
+8. Sant Lipi
+9. Braah
+10. Dasa
+11. Sector
+
 conflicts:
 This package conflict with google-fonts
